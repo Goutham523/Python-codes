@@ -38,7 +38,7 @@ A_inv = linalg.inv(A)
 
 
 x = A_inv @ b
-print("\nCoefficiant of matrix is:\n",x)
+print("\nCoefficient of matrix is:\n",x)
 
 # In[20]:
 
